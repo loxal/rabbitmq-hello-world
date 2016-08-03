@@ -3,6 +3,7 @@ target/
 
 # Gradle-specific
 .gradle/
+build/
 
 # IntelliJ-specific
 \.idea/workspace\.xml
